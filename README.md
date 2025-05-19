@@ -29,7 +29,7 @@ open index.html
 ```
 
 ## 🌐 Aperçu
-![Aperçu de la page d'accueil](./images/apercu.png)
+![Aperçu de la page d'accueil](./images/Apercu.png)
 
 ## 👤 Auteur
 - **Leonardo CORREIA MENDES**
